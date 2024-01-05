@@ -12,3 +12,11 @@ Move right until we reach end
 
 Now swap the two subtrees and return to prev call.
 Done
+<hr>
+![WhatsApp Image 2023-12-27 at 16 20 23_8012ad9f](https://github.com/aditimahabole/Trees/assets/78752342/ccbcdd0b-a9c3-47c1-8751-64ac447d4da3)
+
+**6.LevelOrder Approach**
+
+-> Using Level Order Traversal
+Explain :
+at every Level swap the left and right subtree simple.
